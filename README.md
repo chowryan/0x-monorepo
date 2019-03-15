@@ -105,6 +105,17 @@ Visit our [developer portal](https://0xproject.com/docs/order-utils) for a compr
 | [`@0x/testnet-faucets`](/packages/testnet-faucets) | A faucet micro-service that dispenses test ERC20 tokens or Ether                 |
 | [`@0x/website`](/packages/website)                 | 0x website                                                                       |
 
+#### Deployed Contract Packages
+
+| Contract        | Package                                                             | Package Version |
+| --------------- | ------------------------------------------------------------------- | --------------- |
+| ERC20Proxy      | [`@0x/contracts-asset-proxy`](/contracts/asset-proxy)               | 1.0.0           |
+| ERC721Proxy     | [`@0x/contracts-asset-proxy`](/contracts/asset-proxy)               | 1.0.0           |
+| Exchange        | [`@0x/contracts-exchange`](/contracts/exchange)                     | 1.0.0           |
+| DutchAuction    | [`@0x/contracts-extensions`](/contracts/extensions)                 | 1.0.0           |
+| Forwarder       | [`@0x/contracts-exchange-forwarder`](/contracts/exchange-forwarder) | 1.0.0           |
+| MultiAssetProxy | [`@0x/contracts-asset-proxy`](/contracts/asset-proxy)               | 1.0.0           |
+
 ## Usage
 
 Node version >= 6.12 is required.
