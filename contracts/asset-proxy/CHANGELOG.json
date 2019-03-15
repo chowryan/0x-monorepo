@@ -13,6 +13,10 @@
             {
                 "note": "Add ERC1155Proxy",
                 "pr": 1661
+            },
+            {
+                "note": "Integration testing for ERC1155Proxy",
+                "pr": 1673
             }
         ]
     },
